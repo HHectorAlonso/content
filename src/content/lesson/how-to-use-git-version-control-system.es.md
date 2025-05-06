@@ -1,3 +1,6 @@
+***en este tema, uno de los cambios a proponer, se empieza hablando de los Head (visto aqui a partir de la linea 70), buscando informacion al respecto, siempre se representa con mayusculas (HEAD), como despues si cambia parrafos mas abajo, deberia estar uniforme en todo el tema para evitar confusiones (en este caso no he hecho cambios para que se pueda comprobar 
+***otro cambio, estaria en la linea Nº 20, sustituyo el NO lo postergues porque no puedes evitarlo, por NO lo posterges, no puedes evitarlo, reafirmando la frase y dando mas enfasis a instar a trabajar cuanto antes por que como indica despues su uso sera constante (aqui alomejor tambien le vendria bien una cursiva o negrita para llamar la atencion, pero esto solo seria por decorar) 
+
 ---
 title: "Cómo usar GIT: Sistema de control de versiones"
 subtitle: "Aprenda cómo usar GIT con un tutorial interactivo, un video y un excelente artículo. Sin GIT, no podrá trabajar en ninguna empresa y no podrá utilizar el código de nadie."
@@ -14,7 +17,7 @@ status: "published"
 
 ## ¡GIT es una necesidad!
 
-GIT es una gran tecnología, tómate el tiempo para aprenderla. NO lo postergues porque no puedes evitarlo. Lo usarás todos los días, varias veces al día. Así que es mejor que aprendas y te sientas cómodo con eso.
+GIT es una gran tecnología, tómate el tiempo para aprenderla. NO lo postergues, no puedes evitarlo. Lo usarás todos los días, varias veces al día. Así que es mejor que aprendas y te sientas cómodo con eso.
 
 GIT es más que un "conjunto de comandos" que tienes que aprender. A lo largo de los años, hemos aprendido que la mejor manera de enseñar GIT es mediante la comprensión de los conceptos y el significado de la tecnología, en lugar de dar una lista de los comandos que se deben usar.
 
